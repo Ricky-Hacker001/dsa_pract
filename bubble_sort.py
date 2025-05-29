@@ -1,4 +1,4 @@
-array=[1,0,19,2,20,0]
+array=['z','x','c','v','b','a']
 array_count=len(array)
 
 for i in range(array_count-1):
